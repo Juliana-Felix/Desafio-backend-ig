@@ -37,6 +37,6 @@ Acesse o diretório api-desafio: Desafio-backend-ig  <br>
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Linguagem: JavaScriptt
+- Linguagem: JavaScript
 - Biblioteca server: Express
 - Biblioteca de Banco de dados: sqlite3
